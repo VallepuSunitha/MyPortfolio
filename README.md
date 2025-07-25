@@ -29,6 +29,6 @@ This is my **personal portfolio website** built using **HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-🔗 [View Live Portfolio]([sunithaportfolio.netlify.app](https://sunithaportfolio.netlify.app/))
+🔗 [View Live Portfolio](https://sunithaportfolio.netlify.app/)
 
 ---
